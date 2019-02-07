@@ -1,0 +1,8 @@
+main: pl.demonn.zestawy.Main
+name: DemoN-Zestawy
+author: _DemoNN_
+version: 1.0
+
+commands:
+  zestawy:
+    aliases: [kit, kits]
